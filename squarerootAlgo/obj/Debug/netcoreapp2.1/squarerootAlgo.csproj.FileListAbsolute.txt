@@ -1,0 +1,11 @@
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\bin\Debug\netcoreapp2.1\squarerootAlgo.deps.json
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\bin\Debug\netcoreapp2.1\squarerootAlgo.runtimeconfig.json
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\bin\Debug\netcoreapp2.1\squarerootAlgo.runtimeconfig.dev.json
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\bin\Debug\netcoreapp2.1\squarerootAlgo.dll
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\bin\Debug\netcoreapp2.1\squarerootAlgo.pdb
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.csprojAssemblyReference.cache
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.csproj.CoreCompileInputs.cache
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.AssemblyInfoInputs.cache
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.AssemblyInfo.cs
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.dll
+C:\Users\hillb\source\repos\squarerootAlgo\squarerootAlgo\obj\Debug\netcoreapp2.1\squarerootAlgo.pdb
